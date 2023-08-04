@@ -1,0 +1,6 @@
+#includ<stdio.h>
+in main(){
+    int n,i,j,k ,l;
+    char c=64;
+    printf()
+}
